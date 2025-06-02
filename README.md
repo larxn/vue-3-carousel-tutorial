@@ -137,4 +137,5 @@ Thanks for reading!
 [img-result-2]: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/znvi3i7gajv03rfrz62p.gif
 [img-result-3]: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a55htd9cs40ewrdjv7zj.gif
 [img-final-result]: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a3ylulgdqk28liz2tj3i.gif
-[img-cover]: https://res.cloudinary.com/practicaldev/image/fetch/s--1eZ5q1uw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rpkegg9gque7a9lg49ww.jpg
+[img-cover]: https://github.com/user-attachments/assets/470ccfd5-fdf0-407a-989d-0c0764b65fc6
+
